@@ -49,6 +49,11 @@ High repeat customer rate
 
 Clear seasonal sales patterns
 
+<img width="896" height="503" alt="Capture" src="https://github.com/user-attachments/assets/c3b215af-4911-44f3-8087-e1347f6e1197" />
+
+
+
+
 
 
 
