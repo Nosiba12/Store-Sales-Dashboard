@@ -49,6 +49,10 @@ High repeat customer rate
 
 Clear seasonal sales patterns
 
+# app.powerbi
+
+https://app.powerbi.com/links/6qzPZHxHmR?ctid=861425fd-8774-4f41-a5b0-c689c80df00b&pbi_source=linkShare
+
 <img width="896" height="503" alt="Capture" src="https://github.com/user-attachments/assets/c3b215af-4911-44f3-8087-e1347f6e1197" />
 
 
